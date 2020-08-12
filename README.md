@@ -6,4 +6,4 @@ I'm Jayaku Briliantio, 2nd year Computer Science student at [Bunda Mulia Univers
 - 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me: jayakubriliantio.dev@gmail.com
 
-![Jayaku's github stats](https://github-readme-stats.vercel.app/api?username=ukayaj&show_icons=true&count_private=true&theme=radical)
+![Jayaku's github stats](https://github-readme-stats.vercel.app/api?username=ukayaj620&show_icons=true&count_private=true&theme=radical)
