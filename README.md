@@ -5,3 +5,5 @@ I'm Jayaku Briliantio, 2nd year Computer Science student at [Bunda Mulia Univers
 - 🔭 I’m currently work at [Codenitiva](https://www.linkedin.com/company/codenitiva) and [Abersoft Technologies](https://www.linkedin.com/company/abersoft-technologies)
 - 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me: **jayakubriliantio.dev@gmail.com**
+
+[![Top Langs](https://github-readme-stats-one-black.vercel.app/api/top-langs/?username=ukayaj620&hide=html,css,objective-c,batchfile,starlark,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
