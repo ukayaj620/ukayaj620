@@ -7,4 +7,4 @@ I'm Jayaku Briliantio, 2nd year Computer Science student at [Bunda Mulia Univers
 - 📫 How to reach me: **jayakubriliantio.dev@gmail.com**
 
 ### Statistics
-[![Top Langs](https://github-readme-stats-orpin-chi.vercel.app/api/top-langs/?username=ukayaj620&hide=html,css,objective-c,batchfile,starlark,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-black.vercel.app/api/top-langs/?username=ukayaj620&hide=html,css,objective-c,batchfile,starlark,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
