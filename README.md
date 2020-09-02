@@ -6,4 +6,9 @@ I'm **Jayaku Briliantio**, 2nd year Computer Science student at [Bunda Mulia Uni
 - 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me: **jayakubriliantio.dev@gmail.com**
 
+### Jayaku Briliantio Statistics
+
+[![Jayaku's github stats](https://github-readme-stats-one-black.vercel.app/api?username=ukayaj620&count_private=true&show_icons=true&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats-one-black.vercel.app/api/top-langs/?username=ukayaj620&hide=html,css,objective-c,batchfile,starlark)](https://github.com/anuraghazra/github-readme-stats)
