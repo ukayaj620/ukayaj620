@@ -4,7 +4,7 @@ I'm **Jayaku Briliantio**, 2nd year Computer Science student at [Bunda Mulia Uni
 
 - 🔭 I’m currently work at [Codenitiva](https://www.linkedin.com/company/codenitiva) and [Abersoft Technologies](https://www.linkedin.com/company/abersoft-technologies)
 - 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me: **jayakubriliantio.dev@gmail.com**
+- 📫 How to reach me: **jayakubriliantio.dev@gmail.com** and **jayakubriliantio@outlook.com**
 
 ### Jayaku Briliantio Statistics
 
