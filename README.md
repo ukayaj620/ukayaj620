@@ -8,7 +8,7 @@ I'm **Jayaku Briliantio**, 2nd year Computer Science student at [Bunda Mulia Uni
 
 ### Jayaku Briliantio Statistics
 
-[![Jayaku's github stats](https://github-readme-stats-one-black.vercel.app/api?username=ukayaj620&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jayaku's github stats](https://github-readme-stats-one-black.vercel.app/api?username=ukayaj620&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Jayaku Briliantio Top Language
-[![Jayaku's top langs](https://github-readme-stats-one-black.vercel.app/api/top-langs/?username=ukayaj620&hide=html,css,objective-c,batchfile,starlark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jayaku's top langs](https://github-readme-stats-one-black.vercel.app/api/top-langs/?username=ukayaj620&hide=html,css,objective-c,batchfile,starlark&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
