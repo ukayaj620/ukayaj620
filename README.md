@@ -5,7 +5,7 @@ I'm **Jayaku Briliantio**, 3rd year Computer Science student at [**Bunda Mulia U
 - 🔭 I’m currently work at [**Codenitiva**](https://www.linkedin.com/company/codenitiva) as self-employeed **Full Stack Developer**
 - 🌱 I’m currently learning Deep Learning and Tensorflow
 - 📫 How to reach me via: 
-  - Email: **jayakubriliantio@gmail.com** and **jayakubriliantio@outlook.com**
-  - [LinkedIn](https://www.linkedin.com/in/neartojayakubriliantio/)
+  - **Email**: **jayakubriliantio@gmail.com** and **jayakubriliantio@outlook.com**
+  - [**LinkedIn**](https://www.linkedin.com/in/neartojayakubriliantio/)
 
 [**Link to my portfolio**](https://jayakubriliantio.netlify.app)
